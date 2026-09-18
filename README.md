@@ -21,6 +21,7 @@ Week 1:
 - Added Research section
 - Added Vision & Scope
 - Added full SRS draft including 15 use cases
+  
 Week 2:
 - Added WBS deliverables
 - Project timeline
