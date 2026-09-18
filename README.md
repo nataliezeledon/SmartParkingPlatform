@@ -13,6 +13,7 @@ and provides operators with tools for occupancy monitoring and pricing managemen
 - Software Requirements Specification (SRS)
 - Functional and Non-Functional Requirements
 - 15 Use Cases
+- WBS/Gantt Chart
 - Weekly updates to the project document
 
 ## Weekly Updates
@@ -20,6 +21,10 @@ Week 1:
 - Added Research section
 - Added Vision & Scope
 - Added full SRS draft including 15 use cases
+Week 2:
+- Added WBS deliverables
+- Project timeline
+- Gantt Chart
 
 ## Instructor Requirements
 Each week I will submit:
