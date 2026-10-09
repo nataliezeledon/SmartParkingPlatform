@@ -27,6 +27,19 @@ Week 2:
 - Project timeline
 - Gantt Chart
 
+Week 3: 
+- Added backlog for parking app
+- Spring 1 Backlog
+
+- Risk categories: technical, schedule, financial, people
+- Risk Register
+- Communication Plan
+
+Week 4: 
+- Roles & Resources
+- Resource & Cost Plan
+- RACI Matrix
+
 ## Instructor Requirements
 Each week I will submit:
 1. A link to this GitHub repository
